@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Detroit Public LibraryCard</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_locations">LocationsActivity</string>
+    <string name="title_activity_research">ResearchActivity</string>
+    <string name="title_activity_news_events">NewsEventsActivity</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="title_activity_web_panel">WebPanelActivity</string>
+    <string name="title_activity_library_map">LibraryMapActivity</string>
+    <string name="title_activity_amazon_login">AmazonLoginActivity</string>
+    <string name="title_activity_amazon_wishlist">AmazonWishlistActivity</string>
+
+</resources>
