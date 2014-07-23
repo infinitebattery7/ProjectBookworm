@@ -1,0 +1,1 @@
+An android app made at the hackDPL hackathon, functioning as an informative app for the Detroit Public Library. 
